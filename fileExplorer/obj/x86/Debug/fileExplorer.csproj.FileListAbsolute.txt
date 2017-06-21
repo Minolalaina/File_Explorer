@@ -1,0 +1,10 @@
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\bin\Debug\fileExplorer.exe
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\bin\Debug\fileExplorer.pdb
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.Form1.resources
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.Properties.Resources.resources
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.csproj.GenerateResource.Cache
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.exe
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.pdb
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\bin\Debug\GongShell.dll
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\bin\Debug\GongShell.xml
+D:\ETUDE\Mes_projets\POO\S_fileExplorer\fileExplorer\obj\x86\Debug\fileExplorer.csprojResolveAssemblyReference.cache
